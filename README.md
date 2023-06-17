@@ -29,5 +29,5 @@ The Power BI dashboard was created to visualize the key findings of the analysis
 
 The Power BI dashboard offers a clear and interactive way to understand the loan application data, and can be easily updated with new data for ongoing analysis.
 
-![Power BI Dashboard](dashboard.png)
+![Power BI Dashboard](Pdf/LeadsDashBoard.pdf)
 
